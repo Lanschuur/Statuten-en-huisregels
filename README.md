@@ -211,6 +211,21 @@ Het bestuur is bevoegd om zonder voorafgaande goedkeuring van de ALV in te kopen
 - randzaken voor evenementen (bv. bordjes, bekers, servetten);
 - schoonmaak- en overige benodigdheden voor een evenement of LAN.
 
+## Financiële bevoegdheden (koppeling aan contributie)
+
+1. Het bestuur is bevoegd uitgaven te doen die noodzakelijk zijn voor de normale gang van zaken binnen Lanschuur.
+
+2. Individuele bestuursleden mogen namens Lanschuur verplichtingen aangaan tot het bedrag dat past binnen de geldende budgetruimte voor dat onderdeel, waaronder:
+   - **evenementkosten** (zoals verteer, randzaken en schoonmaak/benodigdheden voor een evenement of LAN), en
+   - **nieuwe inventaris** binnen de **jaarlimiet van maximaal 20% van de totale contributie-inkomsten** van dat boekjaar.
+
+3. Verplichtingen die zorgen dat de **jaarlimiet voor nieuwe inventaris** (maximaal 20% van de totale contributie-inkomsten) zou worden overschreden, vereisen voorafgaande goedkeuring:
+   - van het voltallige bestuur,
+   - én (indien overschrijding dreigt) voorafgaande goedkeuring van de ALV.
+
+4. Voor verplichtingen die niet onder “normale gang van zaken” vallen, of die worden gezien als **grote aankopen/investeringen** voor een boekjaar, geldt: voorafgaande goedkeuring door de ALV, en deze worden meegenomen in de begroting.
+
+
 ### Nieuwe inventaris (jaarlimiet)
 Nieuwe inventaris (apparatuur/spullen voor verhuur of gebruik op LAN’s) mag door het bestuur worden aangekocht zonder stemming op de ALV, zolang:
 - het totaal aan uitgaven voor nieuwe inventaris binnen een boekjaar niet meer bedraagt dan **maximaal 20% van de totale contributie-inkomsten** in dat boekjaar.
