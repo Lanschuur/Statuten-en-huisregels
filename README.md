@@ -199,7 +199,7 @@ Voor aanname van leden is vereist dat **80% van de geldig uitgebrachte stemmen �
 2. De penningmeester legt jaarlijks verantwoording af aan de ALV.
 
 ### Bewaartermijn financiële documenten
-1. Facturen, bonnen, bankafschriften en andere financiële stukken worden gedurende minimaal **2 jaar** bewaard.
+1. Facturen, bonnen, bankafschriften en andere financiële stukken worden gedurende minimaal **5 jaar** bewaard.
 
 ---
 
