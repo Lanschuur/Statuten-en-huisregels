@@ -286,7 +286,7 @@ Grote aankopen voor een boekjaar worden vooraf goedgekeurd door de ALV en meegen
    - de ingebrachte spullen terug naar de leden die deze hebben ingebracht;
    - als teruggeven niet mogelijk is: de bestemming van de ingebrachte spullen wordt per stuk bekeken en in overleg bepaald, met als uitgangspunt een goed doel en/of terugkeer waar mogelijk;
    - tenzij directe bestemming zoals bedoeld onder “goed doel” per stuk mogelijk is, kan worden gekozen voor **verkoop** waarna de opbrengst naar het **goede doel** gaat.
-4. De ALV wijst de vereffenaar(s) aan en bepaalt de verdere afwikkeling.
+4. Het bestuur wijst de vereffenaar(s) aan en bepaalt de verdere afwikkeling.
 
 ---
 
