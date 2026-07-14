@@ -2,7 +2,7 @@
 
 ## Missie (Lanschuur)
 ### Elke LAN Beter
-Wij zetten ons in voor gamers in Lanschuur door elk kwartaal een LAN te organiseren, gaming gear te verhuren en leden te ondersteunen bij het organiseren van **Lanschuur op locatie (LoL)**.
+Wij zetten ons in voor gamers in Lanschuur door (om en nabij) elk kwartaal een LAN te organiseren, gaming gear te verhuren en leden te ondersteunen bij het organiseren van **Lanschuur op locatie (LoL)**.
 
 ## Visie
 **Elke LAN is beter dan de vorige**, voor jong en oud. We zorgen voor een duidelijke organisatie, heldere financiën en een goede beschikbaarheid van spullen, met leuke competities en een warme, competitieve sfeer.
