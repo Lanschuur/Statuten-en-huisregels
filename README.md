@@ -24,12 +24,12 @@ Elke LAN is beter dan de vorige, voor jong en oud. We zorgen voor een duidelijke
 
 | Functie | Naam |
 |---|---|
-| Voorzitter | Rudi Jansen |
-| Secretaris | Nick Bloks |
-| Penningmeester | Veerle van Overloop |
-| Bestuurslid | Joey van de Biggelaar |
-| Bestuurslid | Gijs Schevers |
-| Adviseur | Roy van Ringenstein |
+| Voorzitter | Rudi |
+| Secretaris | Nick |
+| Penningmeester | Veerle  |
+| Bestuurslid | Joey |
+| Bestuurslid | Gijs |
+| Adviseur | Roy |
 
 ### Bestuursverkiezingen en termijnen
 
