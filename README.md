@@ -135,7 +135,7 @@ Voor de aanname van leden is vereist dat 80% van de geldig uitgebrachte stemmen 
 
 - Deelname aan de jaarlijkse ALV en KermisLAN, inclusief stemrecht en recht op deelname aan de ALV.
 - Deelname zonder entreekosten aan overige LAN-parties, ongeveer 3 keer per jaar.
-- Hoge korting of gedeeltelijk gratis huur van spullen voor een eigen LAN, volgens afspraken en beschikbaarheid.
+- Hoge korting of gedeeltelijk gratis huur van spullen voor een eigen LAN of andere gelegenheden, volgens afspraken en beschikbaarheid.
 - Tijdens LAN-parties:
   - entree;
   - een eigen plek;
